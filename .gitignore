@@ -9,3 +9,9 @@ env/
 # System files
 .DS_Store
 Thumbs.db
+
+# Bank data files
+balance.txt
+transactions.txt
+config.bat
+node_modules
